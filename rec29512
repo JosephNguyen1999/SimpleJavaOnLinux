@@ -1,0 +1,15 @@
+Project1:
+total 0
+drwxr-xr-x. 2 myid 32 Jun 11 12:04 classes
+-rw-r--r--. 1 myid  0 Jun 11 12:28 rec29512
+drwxr-xr-x. 2 myid 62 Jun 11 12:26 src
+
+Project1/classes:
+total 4
+-rw-r--r--. 1 myid 670 Jun 11 12:26 User.class
+
+Project1/src:
+total 8
+-rw-r--r--. 1 myid 413 Jun 11 12:26 User.java
+-rw-r--r--. 1 myid 368 Jun 11 12:07 User.java~
+/home/myid/jhn21502/cs1302/Project1:/home/myid/csci-1302a
